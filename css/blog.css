@@ -1,8 +1,8 @@
 .leia-mais {
-    padding: 8px;
-    margin: 16px;
+    padding: .5em;
+    margin: 1em;
     display: block;
-    font-size: 24px;
+    font-size: 1.5em;
     text-align: center;
     background-color: #E6E7E8;
 }
