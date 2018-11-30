@@ -234,5 +234,27 @@ main {
     transform: rotate(10deg);
 }
 
+.banner-twitter {
+    position: absolute;
+    top: 0;
+    right: 0;
+    right: 0;
+    transform-origin: 0 0;
+    transform: translate(6.5754em, -2.4749em) rotate(45deg);
+        
+    width: 14em;
+    line-height: 1;
+    padding: 1em 0;
+    box-sizing: border-box;
+    
+    text-align: center;
+    text-decoration: none;
+    background-color: #3C1D3D;
+    color: white;
+    border: .25em solid black;
+    
+    font-size: 1.2em;
+    font-family: "Open Sans Condensed", sans-serif;
+}
 
 
