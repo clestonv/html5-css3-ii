@@ -132,28 +132,3 @@ main {
     right: 0;
     height: 300px;
 }
-.blog {
-    position: relative;
-}
-
-.blog .inicio-post {
-    position: absolute;
-    top: 4em;
-    height: 8em;
-    left: 30%;
-    right: 4em;
-    background-color: #F2FFFC;
-    color: #000;
-    padding: 1.5em;
-}
-.blog .mais-recente {
-    background-color: #F2FFFC;
-}
-
-.blog .mais-recente a {
-    color: #F26;
-}
-
-.blog li {
-    width: 30%;
-}
