@@ -1,5 +1,6 @@
 .foto-home {
     height: 200px;
+    border-radius: 50%;
 }
 .saudacao p {
     font-size: 1.5em;
@@ -22,6 +23,8 @@
 .saudacao em {
     color: #851944;
     font-size: 4em;
+    transform: rotate(-5deg) skew(-10deg);
+    display: inline-block;
 }
 .botao-index {
     font-size: 1.25em;
@@ -165,3 +168,71 @@ main {
 .blog .mais-recente a {
     color: #F26;
 }
+
+.eficiencia {
+    top: 20%;
+    left: 75%;
+    transform: rotate(-5deg);
+}
+
+.boas-praticas {
+    top: 70%;
+    left: 20%;
+    transform: rotate(10deg);
+}
+
+.codigo-limpo {
+  top: 45%;
+  left: 10%;
+  transform: rotate(-10deg); 
+}
+
+.css3 {
+    top: 50%;
+    left: 30%;
+    transform: rotate(5deg);
+}
+
+.html5 {
+    top: 40%;
+    left: 80%;
+    transform: rotate(10deg);
+}
+.javascript {
+    top: 10%;
+    left: 60%;
+    transform: rotate(-5deg);
+}
+
+.acessibilidade {
+    top: 30%;
+    left: 25%;
+    transform: rotate(-5deg);
+}
+
+.responsivo {
+    top: 15%;
+    left: 15%;
+    transform: rotate(10deg);
+}
+
+.otimizacoes {
+    top: 60%;
+    left: 70%;
+    transform: rotate(-5deg);
+}
+
+.agilidade {
+    top: 10%;
+    left: 30%;
+    transform: rotate(5deg);
+}
+
+.design {
+    top: 35%;
+    left: 65%;
+    transform: rotate(10deg);
+}
+
+
+
